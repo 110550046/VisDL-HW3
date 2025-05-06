@@ -35,3 +35,5 @@ just run the training cell(3rd cell) in the ipynb file
 ### Inference
 just run the inference cell(last cell) in the ipynb file
 
+## Performance Snapshot
+![image](https://github.com/user-attachments/assets/3b0798fd-a5c3-47dd-bc1c-ab90caf52d52)
