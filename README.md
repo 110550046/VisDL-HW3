@@ -8,7 +8,7 @@ Name: 吳孟謙
 This is the implementation for Homework 3 of NYCU Computer Vision 2025 Spring, which focuses on **Instance Segmentation** of medical cell images.  
 The model is based on `Mask R-CNN with ResNet50 + FPN` from torchvision's detection module, with custom data preprocessing and augmentation techniques.
 
-### Summary
+### Methods & Hyperparameters
 
 - **Model**: Mask R-CNN (`maskrcnn_resnet50_fpn_v2`)
 - **Backbone**: ResNet-50 with Feature Pyramid Network
