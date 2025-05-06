@@ -34,7 +34,7 @@ Just run the training cell (3rd cell) in the .ipynb file.
 Or you can saperate the training cell as main.py.
 
 ### Inference
-Just run the inference cell (last cell) in the .ipynb file.
+Just run the inference cell (last cell) in the .ipynb file.  
 Or you can saperate the inference cell as predict.py.
 
 ## Performance Snapshot
