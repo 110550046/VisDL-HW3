@@ -24,16 +24,16 @@ The model is based on `Mask R-CNN with ResNet50 + FPN` from torchvision's detect
 ## How to install & run  
 
 ### dependencies  
-just run the dependency installation cell(2nd cell) in the ipynb file  
-or run this in terminal  
+Just run the dependency installation cell (2nd cell) in the .ipynb file.
+Or install manually with pip:
 ```bash
 pip install torch torchvision numpy opencv-python tqdm Pillow pycocotools 
 ```
 ### Training
-just run the training cell(3rd cell) in the ipynb file
+Just run the training cell (3rd cell) in the .ipynb file.
 
 ### Inference
-just run the inference cell(last cell) in the ipynb file
+Just run the inference cell (last cell) in the .ipynb file.
 
 ## Performance Snapshot
 ![image](https://github.com/user-attachments/assets/3b0798fd-a5c3-47dd-bc1c-ab90caf52d52)
