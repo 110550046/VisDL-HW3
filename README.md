@@ -17,6 +17,9 @@ The model is based on `Mask R-CNN with ResNet50 + FPN` from torchvision's detect
   - Brightness and contrast jittering
 - **Loss**: Standard Mask R-CNN losses
 - **Pretrained Weights**: ImageNet (via torchvision)
+- **Dataset Root**: './hw3-data-release'
+- **Batch Size**: 2
+- **Epoch**: 10
 
 ## How to install & run  
 
